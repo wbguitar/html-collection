@@ -2,7 +2,7 @@
 Collection of HTML projects
 
 ## Expanding Cards
-![](./Images/Animation.gif)
+![](./Images/expanding-cards.gif)
 
 
 <!-- <iframe
