@@ -65,5 +65,5 @@ body {
 .frame {
 	height: 90%;
 	width: 100%;
-	/* margin-bottom: 10px; */
+	border: solid rgb(104, 104, 104) 1px;
 }
