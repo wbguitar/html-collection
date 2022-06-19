@@ -18,10 +18,10 @@ body {
 .bg {
 	background: url('https://wallpaper.dog/large/791275.jpg') no-repeat center center/cover;
 	position: absolute;
-	top: -30px;
-	left: -30px;
-	width: calc(100vh + 30px);
-	height: calc(100vh + 30px);
+	top: -10px;
+	left: -10px;
+	width: calc(100vw + 10px);
+	height: calc(100vh + 10px);
 	z-index: -1;
 	filter: blur(0px);
 }
